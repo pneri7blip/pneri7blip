@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" rx="18" fill="#0d1117"/><rect x="1" y="1" width="1098" height="648" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+<style>.m{font-family:monospace}.a{fill:#9aa4b2;font-size:16px;font-weight:bold}.b{fill:#58a6ff}.o{fill:#f0883e}.v{fill:#c9d1d9}.s{font-size:16px}</style>
+<g class="m a" xml:space="preserve">
+<text x="35" y="100">                 .-=======-.</text>
+<text x="35" y="120">             .-==+++++++++++==-.</text>
+<text x="35" y="140">          .==+++++*********+++++==.</text>
+<text x="35" y="160">        .=++++***###%%%%%###***++++=.</text>
+<text x="35" y="180">      .=+++**##%%@@@%%%%%@@@%%##**+++=.</text>
+<text x="35" y="200">     =++**##%%@@@%%##***##%%@@@%%##**++=</text>
+<text x="35" y="220">    =++*##%%@@%%#*+=-----=+*#%%@@%%##*++=</text>
+<text x="35" y="240">   =++*##%@@%#*+=-         -=+*#%@@%##*++=</text>
+<text x="35" y="260">  =++*##%@@%#*=.    .---.    .=*#%@@%##*++=</text>
+<text x="35" y="280">  =++*##%@@#*=     / AI \     =*#@@%##*++=</text>
+<text x="35" y="300">  =++*##%@@%#*=.   '---'   . =*#%@@%##*++=</text>
+<text x="35" y="320">   =++*##%@@%%#*+=-.____.-=+*#%%@@%##*++=</text>
+<text x="35" y="340">    =++**##%%@@@%%##***##%%@@@%%##**++=</text>
+<text x="35" y="360">     =+++**##%%@@@%%%%%%%@@@%%##**+++=</text>
+<text x="35" y="380">       =++++***###%%%%%%%###***++++=</text>
+<text x="35" y="400">         .==++++*********++++==.</text>
+<text x="35" y="420">             '-==+++++++++==-'</text>
+<text x="35" y="440">                  '-----'</text>
+<text x="35" y="485" fill="#58a6ff">          AI / WORKFLOW / SYSTEMS</text>
+</g>
+<g class="m">
+<text x="565" y="82" class="b" font-size="21" font-weight="bold">pneri7blip@github</text><line x1="755" y1="76" x2="1050" y2="76" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="130" class="o s">Focus:</text><text x="650" y="130" class="v s">AI Workflows &amp; Document Intelligence</text>
+<text x="565" y="160" class="o s">Role:</text><text x="650" y="160" class="v s">AI Workflow Designer</text>
+<text x="565" y="190" class="o s">Interests:</text><text x="650" y="190" class="v s">AI Operations, Evaluation, Automation</text>
+<text x="565" y="220" class="o s">Languages:</text><text x="650" y="220" class="v s">Italian, English</text>
+<text x="565" y="250" class="o s">Learning:</text><text x="650" y="250" class="v s">Python, Process Design</text>
+<text x="565" y="310" class="b" font-size="17">— Projects</text><line x1="665" y1="304" x2="1050" y2="304" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="342" class="o s">01</text><text x="600" y="342" class="v s">Clarity</text>
+<text x="565" y="372" class="o s">02</text><text x="600" y="372" class="v s">ClimateCopilot</text>
+<text x="565" y="402" class="o s">03</text><text x="600" y="402" class="v s">AI Operations Analyst</text>
+<text x="600" y="425" fill="#6e7681" font-size="14">Document Intelligence &amp; Quality Control</text>
+<text x="565" y="485" class="b" font-size="17">— Contact</text><line x1="665" y1="479" x2="1050" y2="479" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="518" class="o s">GitHub:</text><text x="650" y="518" class="v s">github.com/pneri7blip</text>
+<text x="565" y="570" class="b" font-size="17">— GitHub Activity</text><line x1="755" y1="564" x2="1050" y2="564" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="602" class="o s">Status:</text><text x="650" y="602" class="v s">Building · Testing · Improving</text>
+</g></svg>
