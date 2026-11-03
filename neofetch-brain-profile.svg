@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" rx="18" fill="#0d1117"/><rect x="1" y="1" width="1098" height="648" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+<style>.m{font-family:'DejaVu Sans Mono','Liberation Mono',monospace}.a{font-size:17px;font-weight:bold}.b{fill:#58a6ff}.o{fill:#f0883e}.v{fill:#c9d1d9}.g{fill:#79c0ff}.muted{fill:#6e7681}</style>
+<!-- stylized ASCII brain: characters only -->
+<g class="m a" xml:space="preserve">
+<text x="58" y="115" fill="#f0883e">          .-+*#%%%%##*+-.</text>
+<text x="58" y="137" fill="#f0883e">      .-+*#%%%%%%%%%%%%%%#*+-.</text>
+<text x="58" y="159" fill="#f0883e">    .+#%%%%%##**++++**##%%%%%#+.</text>
+<text x="58" y="181" fill="#f0883e">   *%%%%#*+=-.      .-=+*#%%%%*</text>
+<text x="58" y="203" fill="#f0883e">  #%%%#*=.   .+##+.   . =*#%%%#</text>
+<text x="58" y="225" fill="#f0883e"> #%%%#-.   .+%%%%%%+.   .-#%%%#</text>
+<text x="58" y="247" fill="#f0883e"> #%%%*   .+#%%#**#%%#+.   *%%%#</text>
+<text x="58" y="269" fill="#f0883e"> #%%%#-.  *%%*    *%%*  .-#%%%#</text>
+<text x="58" y="291" fill="#f0883e">  #%%%#*=. +%%+  +%%+ . =*#%%%#</text>
+<text x="58" y="313" fill="#f0883e">   *%%%%#*+=-....-=+*#%%%%*</text>
+<text x="58" y="335" fill="#f0883e">    .+#%%%%%%##**##%%%%%%#+.</text>
+<text x="58" y="357" fill="#f0883e">      .-+*#%%%%%%%%%%%%#*+-.</text>
+<text x="58" y="379" fill="#f0883e">           '-=+*##*+=-'</text>
+<text x="58" y="401" fill="#f0883e">               ||</text>
+<text x="58" y="423" fill="#f0883e">              .||.</text>
+<text x="58" y="445" fill="#f0883e">              '++'</text>
+</g>
+<g class="m a">
+<text x="565" y="82" class="b" font-size="21">pneri7blip@github</text><line x1="755" y1="76" x2="1050" y2="76" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="130" class="o" font-size="16">Focus:</text><text x="650" y="130" class="v" font-size="16">AI Workflows &amp; Document Intelligence</text>
+<text x="565" y="160" class="o" font-size="16">Role:</text><text x="650" y="160" class="v" font-size="16">AI Workflow Designer</text>
+<text x="565" y="190" class="o" font-size="16">Interests:</text><text x="650" y="190" class="v" font-size="16">AI Operations, Evaluation, Automation</text>
+<text x="565" y="220" class="o" font-size="16">Languages:</text><text x="680" y="220" class="v" font-size="16">Italian, English</text>
+<text x="565" y="250" class="o" font-size="16">Learning:</text><text x="680" y="250" class="v" font-size="16">Python, Process Design</text>
+<text x="565" y="310" class="b" font-size="17">— Projects</text><line x1="665" y1="304" x2="1050" y2="304" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="342" class="o" font-size="16">01</text><text x="600" y="342" class="v" font-size="16">Clarity</text>
+<text x="565" y="372" class="o" font-size="16">02</text><text x="600" y="372" class="v" font-size="16">ClimateCopilot</text>
+<text x="565" y="402" class="o" font-size="16">03</text><text x="600" y="402" class="v" font-size="16">AI Operations Analyst</text>
+<text x="600" y="425" class="muted" font-size="14">Document Intelligence &amp; Quality Control</text>
+<text x="565" y="485" class="b" font-size="17">— Contact</text><line x1="665" y1="479" x2="1050" y2="479" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="518" class="o" font-size="16">GitHub:</text><text x="650" y="518" class="v" font-size="16">github.com/pneri7blip</text>
+<text x="565" y="570" class="b" font-size="17">— Status</text><line x1="665" y1="564" x2="1050" y2="564" stroke="#30363d" stroke-width="2"/>
+<text x="565" y="602" class="o" font-size="16">Now:</text><text x="650" y="602" class="v" font-size="16">Building · Testing · Improving</text>
+</g></svg>
